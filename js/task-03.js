@@ -24,7 +24,7 @@ const findBestEmployee = function(employees) {
 };
 
 
-// Вызовы функции для проверки работоспособности твоей реализации.
+// Вызовы функции для проверки работоспособности реализации.
 
 console.log(
   findBestEmployee({
